@@ -1,0 +1,17 @@
+# requirements.txt
+# Core dependencies
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+youtube-transcript-api>=0.6.2
+
+# LangChain dependencies
+langchain>=0.1.12
+langchain-community>=0.0.34
+langchain-core>=0.1.32
+
+# HuggingFace dependencies
+huggingface-hub>=0.22.2
+sentence-transformers>=2.5.1
+
+# Vector store
+faiss-cpu>=1.7.4
