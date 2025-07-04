@@ -35,26 +35,6 @@ Watch ANY YouTube video → Click → A chat window pops up → Ask anything liv
 
 Goal: Turn every YouTube tab into your personal AI tutor, explainer, or assistant.
 
-### 📌 How to Run Locally
-1️⃣ Clone this repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run app.py
 
 🙌 Contributing
 Got an idea? A feature request? Open an issue or submit a PR!
